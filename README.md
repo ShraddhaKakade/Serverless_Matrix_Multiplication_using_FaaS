@@ -1,4 +1,4 @@
-# Serverless_Matrix_Multiplication_using_FaaS
+# Serverless Matrix-Multiplication using FaaS
 
 ## 1. Components:
 
